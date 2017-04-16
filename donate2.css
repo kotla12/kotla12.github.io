@@ -1,0 +1,98 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+    .button {
+        background-color: #6B1805;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+    header {
+        width: 400px;
+        background-color: #D60200 ;
+        padding: 5px;
+        font-size: 10px;
+        display: block;
+        border: 5px solid #000000;
+        padding: 5px;
+        margin: 10px;
+
+    }
+    #bigFont{
+      font-size: 40px;
+      font-color: brown;
+    }
+    p {
+      font-size: 30px;
+    }
+    .redBackGround {
+      background-color: #D60200;
+    }
+    .pinkBackGround {
+      background-color: #FF605F;
+    }
+    .orangeBackGround {
+      background-color: #FF9C36;
+    }
+    .grayBackground{
+        background-color: teal;
+    }
+
+    nav {
+        float: left;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        color: blue;
+    }
+    a {
+        color: green;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
